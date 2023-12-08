@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tour-schema.xsd">
+    <tour id="tour1">
+        <departure>
+            <country>США</country>
+            <city>Нью-Йорк</city>
+        </departure>
+        <destination>
+            <country>Франция</country>
+            <city>Париж</city>
+        </destination>
+        <currency>EUR</currency>
+        <start_date>2023-05-15</start_date>
+        <duration_nights>7</duration_nights>
+        <participants>
+            <adults>2</adults>
+            <children>1</children>
+        </participants>
+        <price>1200</price>
+        <description>
+            <overview>
+                <title>Очарование Парижа</title>
+                <details>
+                    <highlight>Посетите знаменитую Эйфелеву башню.</highlight>
+                    <highlight>Прогуляйтесь по набережной Сены и посетите Лувр.</highlight>
+                    <highlight>Отведайте французские деликатесы в ресторанах Монмартра.</highlight>
+                </details>
+            </overview>
+            <accommodation>
+                <title>Grand Hotel Paris</title>
+                <room_type>Делюкс</room_type>
+                <details>
+                    <highlight>Проживание в отеле Grand Hotel Paris с видом на Эйфелеву башню.</highlight>
+                    <highlight>Завтраки включены.</highlight>
+                    <highlight>Бассейн и спа-центр на территории отеля.</highlight>
+                </details>
+            </accommodation>
+            <included>
+                <details>
+                    <highlight>Перелет из Нью-Йорка в Париж и обратно.</highlight>
+                    <highlight>Экскурсии с профессиональным гидом.</highlight>
+                    <highlight>Трансферы из аэропорта в отель.</highlight>
+                </details>
+            </included>
+        </description>
+    </tour>
+    <tour id="tour2">
+        <departure>
+            <country>Россия</country>
+            <city>Москва</city>
+        </departure>
+        <destination>
+            <country>Италия</country>
+            <city>Рим</city>
+        </destination>
+        <currency>EUR</currency>
+        <start_date>2023-07-10</start_date>
+        <duration_nights>10</duration_nights>
+        <participants>
+            <adults>2</adults>
+            <children>0</children>
+        </participants>
+        <price>1400</price>
+        <description>
+            <overview>
+                <title>Итальянские приключения</title>
+                <details>
+                    <highlight>Посетите Колизей и форум в Риме.</highlight>
+                    <highlight>Отведайте аутентичную итальянскую пиццу и пасту.</highlight>
+                    <highlight>Прогулка по улочкам Треви и Испанской лестнице.</highlight>
+                </details>
+            </overview>
+            <accommodation>
+                <title>La Dolce Vita</title>
+                <room_type>Стандарт</room_type>
+                <details>
+                    <highlight>Проживание в отеле La Dolce Vita с итальянским колоритом.</highlight>
+                    <highlight>Завтраки включены.</highlight>
+                    <highlight>Рядом с множеством ресторанов и магазинов.</highlight>
+                </details>
+            </accommodation>
+            <included>
+                <details>
+                    <highlight>Перелет из Москвы в Рим и обратно.</highlight>
+                    <highlight>Экскурсии с гидом по историческим местам.</highlight>
+                    <highlight>Трансферы из аэропорта в отель.</highlight>
+                </details>
+            </included>
+        </description>
+    </tour>
+    <tour id="tour3">
+        <departure>
+            <country>Германия</country>
+            <city>Берлин</city>
+        </departure>
+        <destination>
+            <country>Испания</country>
+            <city>Барселона</city>
+        </destination>
+        <currency>EUR</currency>
+        <start_date>2023-09-05</start_date>
+        <duration_nights>5</duration_nights>
+        <participants>
+            <adults>2</adults>
+            <children>2</children>
+        </participants>
+        <price>1100</price>
+        <description>
+            <overview>
+                <title>Барселона для семьи</title>
+                <details>
+                    <highlight>Посетите парк Гуэль и Саграду Фамилию.</highlight>
+                    <highlight>Отправьтесь на пляж Барселоны и проведите время с детьми.</highlight>
+                    <highlight>Попробуйте тапас и паэлью в местных ресторанах.</highlight>
+                </details>
+            </overview>
+            <accommodation>
+                <title>Barcelona Beach Resort</title>
+                <room_type>Семейный номер</room_type>
+                <details>
+                    <highlight>Проживание в Barcelona Beach Resort с видом на море.</highlight>
+                    <highlight>Завтраки включены.</highlight>
+                    <highlight>Бассейн и детская площадка в отеле.</highlight>
+                </details>
+            </accommodation>
+            <included>
+                <details>
+                    <highlight>Перелет из Берлина в Барселону и обратно.</highlight>
+                    <highlight>Экскурсии по городу с семейным гидом.</highlight>
+                    <highlight>Трансферы из аэропорта в отель.</highlight>
+                </details>
+            </included>
+        </description>
+    </tour>
+    <tour id="tour4">
+        <departure>
+            <country>Китай</country>
+            <city>Пекин</city>
+        </departure>
+        <destination>
+            <country>Япония</country>
+            <city>Токио</city>
+        </destination>
+        <currency>JPY</currency>
+        <start_date>2023-08-20</start_date>
+        <duration_nights>9</duration_nights>
+        <participants>
+            <adults>2</adults>
+            <children>0</children>
+        </participants>
+        <price>180000</price>
+        <description>
+            <overview>
+                <title>Восток встречает Восток</title>
+                <details>
+                    <highlight>Посетите Шинджуку Гёэн, местный парк в Токио.</highlight>
+                    <highlight>Исследуйте Кёто, старейший район с храмами и гейшами.</highlight>
+                    <highlight>Попробуйте известную суши и рамен в местных ресторанах.</highlight>
+                </details>
+            </overview>
+            <accommodation>
+                <title>Sakura Blossom Hotel</title>
+                <room_type>Люкс</room_type>
+                <details>
+                    <highlight>Проживание в Sakura Blossom Hotel с японским стилем.</highlight>
+                    <highlight>Завтраки включены.</highlight>
+                    <highlight>Близко к станции метро и основным достопримечательностям Токио.</highlight>
+                </details>
+            </accommodation>
+            <included>
+                <details>
+                    <highlight>Перелет из Пекина в Токио и обратно.</highlight>
+                    <highlight>Экскурсии с гидом по истории и культуре Японии.</highlight>
+                    <highlight>Трансферы из аэропорта в отель.</highlight>
+                </details>
+            </included>
+        </description>
+    </tour>
+</tours>
